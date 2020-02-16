@@ -1,6 +1,4 @@
-[![author](https://img.shields.io/badge/author-NataliaGuarnieri-red.svg)](www.linkedin.com/in/nataliaguarnieri) 
-[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
+[![author](https://img.shields.io/badge/author-NataliaGuarnieri-red.svg)](https://www.linkedin.com/in/nataliaguarnieri) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
 <p align="center">
   <img src="nati.jpg" >
@@ -21,7 +19,7 @@ Acting on personal projects with Google Colab, GitHub and Python. Constantly loo
 
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/nataliaguarnieri)
+* [LinkedIn](https://www.linkedin.com/in/nataliaguarnieri)
 * [Medium](https://medium.com/@natalia.calado)
 
 
