@@ -26,4 +26,4 @@ Acting on personal projects with Google Colab, GitHub and Python. Constantly loo
 ## Projetos:
 
 Lista de projetos em Jupyter Notebook:
-* **Análise dos Dados do Airbnb para Amsterdã:** https://github.com/nataliacalado/portfolio/blob/master/An%C3%A1lise_de_Dados_do_Airbnb_Amsterd%C3%A3.ipynb
+* **Análise dos Dados do Airbnb para Amsterdã:** https://bit.ly/3bHNHT4
