@@ -27,3 +27,4 @@ Acting on personal projects with Google Colab, GitHub and Python. Constantly loo
 
 Lista de projetos em Jupyter Notebook:
 * **Análise dos Dados do Airbnb para Amsterdã:** https://bit.ly/3bHNHT4
+* **Projeto de Machine Learning do Titanic:** https://bit.ly/2wSDjs3
