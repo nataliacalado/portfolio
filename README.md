@@ -1,11 +1,11 @@
-[![author](https://img.shields.io/badge/author-NataliaGuarnieri-red.svg)](https://www.linkedin.com/in/nataliaguarnieri) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
+[![author](https://img.shields.io/badge/author-NataliaCalado-red.svg)](https://www.linkedin.com/in/nataliaguarnieri) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
 <p align="center">
   <img src="nati.jpg" >
 </p>
 
-# Natália Guarnieri
-<sub>*Business Intelligence | Data Analytics | Data Scientist* at Yandeh</sub>
+# Natália Calado
+<sub>*Data Analytics | Data Scientist | Machine Learning | IA* at Yandeh</sub>
 
 Production engineer, I'm really fascinated in technology and innovation. I have over 5 years of experience working as business intelligence and data analytics.
 
@@ -26,5 +26,5 @@ Acting on personal projects with Google Colab, GitHub and Python. Constantly loo
 ## Projetos:
 
 Lista de projetos em Jupyter Notebook:
-* **Análise dos Dados do Airbnb para Amsterdã:** https://bit.ly/3bHNHT4
-* **Projeto de Machine Learning do Titanic:** https://bit.ly/2wSDjs3
+* **Análise dos Dados do Airbnb para Amsterdã:**
+* **Projeto de Machine Learning do Titanic:**
